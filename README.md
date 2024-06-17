@@ -79,12 +79,12 @@ classDiagram
     
     }
 
-   Manager <|--TMP_Text : uses
-    Manager <|-- AudioClip : uses
-    Manager <|-- Image : uses
-    Manager <|-- Button : uses
-    Manager <|-- Camera : uses
-    Manager <|--Color : uses
+   Manager --TMP_Text : uses
+    Manager -- AudioClip : uses
+    Manager -- Image : uses
+    Manager -- Button : uses
+    Manager -- Camera : uses
+    Manager --Color : uses
 
     class StartSceneManager {
 
@@ -102,6 +102,7 @@ classDiagram
         
 
     }
-  StartSceneManager <|-- GameObject : uses
-    StartSceneManager <|-- KeyCode : uses
+  StartSceneManager -- GameObject : uses
+  StartSceneManager -- KeyCode : uses
+
 ```
