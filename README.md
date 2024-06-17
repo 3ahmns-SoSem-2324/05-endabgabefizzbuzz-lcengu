@@ -8,9 +8,9 @@ _In diesem Spiel geht es darum die Teilbarkeit von Zahlen zu beschreiben und die
 
 Es existieren folgende Befehle: 
 
--	Fizz – Zahl ist durch 3 teilbar, das ist sie, wenn ihre Quersumme durch 3 teilbar ist; drücken Sie die linke Pfeiltaste oder MakeyMakey Gabel 
+-	Fizz – Zahl ist durch 3 teilbar, das ist sie, wenn ihre Quersumme durch 3 teilbar ist; drücken Sie die linke Pfeiltaste oder MakeyMakey Apfel 
 
--	Buzz – Zahl ist durch 5 teilbar, das ist sie, wenn die letzte Ziffer 0 oder 5 ist; drücken Sie die rechte Pfeiltaste oder MakeyMakey Löffel 
+-	Buzz – Zahl ist durch 5 teilbar, das ist sie, wenn die letzte Ziffer 0 oder 5 ist; drücken Sie die rechte Pfeiltaste oder MakeyMakey Orange 
 
 -	FizzBuzz – Zahl ist sowohl durch 3 als auch durch5 teilbar, das ist sie, wenn die letzte Ziffer 0 bzw. 5 ist oder ihre Quersumme durch 3 teilbar ist; drücken sie die Leertaste oder MakeyMakey das Wasser 
 
